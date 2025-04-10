@@ -73,4 +73,4 @@ Contributions are welcome! To contribute:
 6. Open a pull request
 ---
 
-Visit the live site [here](https://bookhub.vercel.app/).
+Visit the live site [here](https://book-hub-ivory.vercel.app/).
